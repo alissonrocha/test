@@ -1,0 +1,10 @@
+Git Bash
+
+git init
+git clone url
+git status - alterações feitas
+git add - adicionar um arquivo para o git ou * para adicionar todos
+git commit -m "Comentários da alteração"
+git remote add origin - caso o repositório não exista
+git push origin master
+git pull -atualiza os arquivos locais
